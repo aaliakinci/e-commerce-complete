@@ -1,0 +1,6 @@
+C:\repos\workout\AKN.Ecommerce-api\3. AKN.Services\bin\Debug\_3.AKN.Services.dll
+C:\repos\workout\AKN.Ecommerce-api\3. AKN.Services\bin\Debug\_3.AKN.Services.pdb
+C:\repos\workout\AKN.Ecommerce-api\3. AKN.Services\obj\Debug\4. AKN.Services.csprojAssemblyReference.cache
+C:\repos\workout\AKN.Ecommerce-api\3. AKN.Services\obj\Debug\4. AKN.Services.csproj.CoreCompileInputs.cache
+C:\repos\workout\AKN.Ecommerce-api\3. AKN.Services\obj\Debug\_3.AKN.Services.dll
+C:\repos\workout\AKN.Ecommerce-api\3. AKN.Services\obj\Debug\_3.AKN.Services.pdb
